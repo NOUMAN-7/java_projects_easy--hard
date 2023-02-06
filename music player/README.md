@@ -1,2 +1,2 @@
 #MUSIC PLAYER
-![](music player/images and videos for readme/output.jpg)
+![](music%20player/images%20and%20videos%20for%20readme/output.jpg)
